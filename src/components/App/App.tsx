@@ -25,7 +25,7 @@ export const App = () => (
                     <HStack width="100%">
                         <Image src={logo} maxH={50} />
                         <Link
-                            color="teal.500"
+                            color="#0052ee"
                             href="http://www.neosperience.com"
                             fontSize="xl"
                             target="_blank"
